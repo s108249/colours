@@ -1,0 +1,46 @@
+{
+    "name": "colours",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.6.24",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj",
+    "palette": [
+        "#000000",
+        "#ffffff",
+        "#216c92",
+        "#65d5df",
+        "#41c5dc",
+        "#e2c26f",
+        "#6eb174",
+        "#8d8b8c",
+        "#695d69",
+        "#446f4c",
+        "#f7a337",
+        "#dc3327",
+        "#e37f8d",
+        "#f3eece",
+        "#ac87dc",
+        "#656f6e"
+    ]
+}
